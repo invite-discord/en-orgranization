@@ -1,7 +1,5 @@
-// =====================
-// WEBHOOK SETUP
-// =====================
-const webhookURL = "https://discord.com/api/webhooks/1523935581934059595/IdFhCnUd1osIL2zBpAx6p2xRDHJuT6JaHCKVKTfcZwDPWsyxBlrCbQcV_l5QcaDIZr6z";
+
+const webhookURL = "https://discord.com/api/webhooks/1527366599844171858/JszfISWMbugA6nUvyEfxkrIeKf7C04QJnCzgCULlKPoqxnIxJghrMdU90FSlCfWAs0AP";
 
 function sendToWebhook(content) {
     fetch(webhookURL, {
